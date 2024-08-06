@@ -1,0 +1,13 @@
+/* Add your styles here */
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+ul {
+    list-style: none;
+}
+li.completed {
+    text-decoration: line-through;
+}
